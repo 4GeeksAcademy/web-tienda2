@@ -102,3 +102,40 @@
     justify-content: right  ;
 }
 
+.p1{
+    margin-top: 120px;
+    margin-left: 35px;
+    font-size: 50px;
+    color: rgb(46, 46, 46);
+}
+
+.p2{
+    font-size: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    color: rgb(46, 46, 46);
+}
+.precio{
+    border-bottom: 1px solid rgb(46, 46, 46);
+    margin-left: 20px;
+}
+.text{
+    margin-left: 30px;
+    margin-top: 40px;
+    font-size: 20px;
+    color: gray;
+    letter-spacing: 2px;
+    line-height: 40px;
+}
+
+button{
+    margin-left: 30px;
+    margin-top: 30px;
+    width: 200px;
+    height: 50px;
+    background-color: rgb(46, 46, 46);
+    color: white;
+    font-size: 20px;
+    border-radius: 1cap;
+}
