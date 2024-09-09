@@ -54,6 +54,18 @@
     text-decoration: none;
 }
 
+.container2{
+    display: flex;
+}
+
+
+.enlaces{
+    display: flex;
+    align-self: baseline;
+    padding: 20px;
+    color: gray;
+}
+
 .box1 {
     width: 1000px;
     height: 500px;
@@ -70,10 +82,6 @@
     object-position: center;
 }
 
-.enlaces{
-    padding: 20px;
-    color: gray;
-}
 
 
 .images-group{
@@ -87,3 +95,10 @@
     width: 320px;
     height: 300px;
 }
+
+.lateral{
+    display: flex;
+    flex-direction: column;
+    justify-content: right  ;
+}
+
