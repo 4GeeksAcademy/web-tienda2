@@ -76,10 +76,14 @@
 }
 
 
-.image11{
-    width: 25%;
-    height: 25%;
-    flex-direction: row;
-    object-fit: cover;
-    object-position: center;
+.images-group{
+    display: flex;
+    width: 1000px;
+    justify-content: space-between;   
+}
+
+.images-group img{
+    margin-top: 15px;
+    width: 320px;
+    height: 300px;
 }
